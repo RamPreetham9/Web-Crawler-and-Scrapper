@@ -13,5 +13,6 @@ Then go to each folder and do
 `npm i`
 
 Start Commands
-*crawler/client `npm start`
-*scrapper/server `nodemon server.js`
+
+* crawler/client `npm start`
+* scrapper/server `nodemon server.js`
