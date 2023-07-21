@@ -1,5 +1,9 @@
 # Web-Crawler-and-Scrapper
 
+**Development Repositories**
+https://github.com/SujalMishra/WebCrawler
+https://github.com/RamPreetham9/WebScraper-API
+
 `git clone https://github.com/RamPreetham9/WebScraper-API.git`
 
 System Requirements
